@@ -9,8 +9,7 @@
       "loader": "forge",
       "loader_version": "",
       "pack_url": "https://github.com/deathseeeeyou/fixlauncher-packs/releases/download/main-1.0.0/main.enc",
-      "key_salt": "any-string-1",
-      "memory_mb": 4096
+      "key_salt": "any-string-1"
     }
   ]
 }
