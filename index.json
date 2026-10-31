@@ -2,13 +2,13 @@
   "packs": [
     {
       "id": "main",
-      "name": "Моя сборка",
-      "description": "Основная сборка для своих",
+      "name": "Маньяк 1",
+      "description": "Бугагашеньки",
       "version": "1.0.0",
-      "mc_version": "1.20.1",
+      "mc_version": "1.12.2",
       "loader": "forge",
       "loader_version": "",
-      "pack_url": "https://github.com/ТВОЙ_НИК/fixlauncher-packs/releases/download/main-1.0.0/main.enc",
+      "pack_url": "https://github.com/deathseeeeyou/fixlauncher-packs/releases/download/main-1.0.0/main.enc",
       "key_salt": "any-string-1",
       "memory_mb": 4096
     }
